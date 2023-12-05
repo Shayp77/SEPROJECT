@@ -1,0 +1,26 @@
+﻿/* FetchData.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.bebas-font{
+    font-family: 'Bebas Neue, serif';
+}
+
+.playfair-font {
+    font-family: 'Playfair Display', serif;
+}
+
+.movie-poster {
+    object-fit: cover;
+    height: 350px;
+    width: 250px;
+}
+
+.movie-details {
+    margin-top: 1rem;
+}
