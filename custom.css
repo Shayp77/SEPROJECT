@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .text {
+        @apply tw-text-xs md:tw-text-2xl tw-text-gold
+    }
+
+    .tabs-1 {
+        @apply tw-p-10 tw-cursor-pointer
+    }
+}
